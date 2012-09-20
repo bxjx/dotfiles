@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/bj/Downloads/temp/peepcode-069-full-stack-nodejs-i-1-code/9-HotPie-final/assets/js'
+let g:netrw_dirhist_2='/home/bj/Downloads/temp/peepcode-069-full-stack-nodejs-i-1-code/9-HotPie-final/assets'
+let g:netrw_dirhist_3='/home/bj/Downloads/temp/peepcode-069-full-stack-nodejs-i-1-code/9-HotPie-final/models'
+let g:netrw_dirhist_4='/home/bj/git/ausvetplan/node_modules'
